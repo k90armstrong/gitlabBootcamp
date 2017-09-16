@@ -18,25 +18,60 @@ header {
 }
 
 section {
+  
 }
 
 #left {
+  width: 33%;
+  float: left;
+  background-color: #666;
+  padding: 20px;
+ 
 }
 
 #middle {
+  width: 33%;
+  float: left;
+  background-color: #888;
+  padding: 20px;
 }
 
 #right {
+  width: 33%;
+  float: left;
+  background-color: #666;
+  padding: 20px;
 }
 
 #full {
+  background-color: red;
+  overflow: auto;
+  clear: both;
+  padding: 20px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
 }
 
 #division {
+  background-color: #6ea3da;
+  width: 90%;
+  text-align: center;
+  padding: 20px;
 }
 
 aside {
+  background-color: #fff;
+  height: 200px;
+  width: 300px;
+  float: left;
+  margin-left: 100px;
+  padding: 20px;
 }
 
 footer {
+  background-color: #ccc;
+  height: 50px;
 }
+
