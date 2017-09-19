@@ -20,7 +20,7 @@ In this week, we will be welcoming our students to their first week of our Full-
 * [MyFirstHTML](Activities/03-MyFirstHTML)
 * [HTML/CSS Layout](Activities/06-HTML_CSS_Layout)
 * [Float Layout](Activities/09-FloatLayout-Activity)
-* [Position Example](10-CSS_PositionedLayout)
+* [Position Example](Activities/10-CSS_PositionedLayout)
 
 ### Supplemental Resources
 
