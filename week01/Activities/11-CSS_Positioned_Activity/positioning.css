@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+.fixed {
+    position: fixed;
+    background-color: gray;
+    width: 200px;
+    height: 200px;
+}
+.relative {
+    position: relative;
+    background-color: blueviolet;
+    height: 200px;
+    width: 50%;
+    top: -10px;
+    z-index: -1;
+}
+.absolute {
+    position: absolute;
+    background-color: greenyellow;
+}
+.content {
+    width: 40%;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}

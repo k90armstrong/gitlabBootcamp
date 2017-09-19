@@ -18,7 +18,7 @@ header {
 }
 
 section {
-  
+  margin-bottom: 20px;
 }
 
 #left {
@@ -59,6 +59,7 @@ section {
   width: 90%;
   text-align: center;
   padding: 20px;
+  margin: auto;
 }
 
 aside {
