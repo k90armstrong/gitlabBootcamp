@@ -4,22 +4,22 @@
 
 In this week, we will be introducing students to live deployments using Github Pages. We'll also be providing them with a thorough series on Twitter Bootstrap.
 
-### Slide Shows
+### [Slide Shows](Presentations)
 
-* [2.1 - Going Live](01-Day/Slide-Shows)
-* [2.2 - Down and Dirty CSS](02-Day/Slide-Shows)
-* [2.3 - Behold Bootstrap](03-Day/Slide-Shows)
+* [2.1 - Going Live]
+* [2.2 - Down and Dirty CSS]
+* [2.3 - Behold Bootstrap]
 
 ### Homework Activities
 
-* [Portfolio Revisited](../../../01-Class-Content/02-css-bootstrap/02-Homework/Instructions/homework-instructions.md)
+* [Portfolio Revisited](../homework/02-css-bootstrap/homework-instructions.md)
 
 ### Key Activities
 
-* [Github Pages Deployed Site](../../../01-Class-Content/02-css-bootstrap/01-Activities/06-GithubPagesProject)
-* [Bootstrap Powered](../../../01-Class-Content/02-css-bootstrap/01-Activities/10-WheresCSS)
-* [Bootstrap Layout](../../../01-Class-Content/02-css-bootstrap/01-Activities/16-PanelLayout)
-* [Media Queries](../../../01-Class-Content/02-css-bootstrap/01-Activities/18-StudentMedia)
+* [Github Pages Deployed Site](Activities/06-GithubPagesProject)
+* [Bootstrap Powered](Activities/10-WheresCSS)
+* [Bootstrap Layout](Activities/16-PanelLayout)
+* [Media Queries](Activities/18-StudentMedia)
 
 ### Helpful Links
 
