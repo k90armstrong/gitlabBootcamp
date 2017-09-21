@@ -4,27 +4,27 @@
 
 In this week, we will be welcoming our students to their first week of our Full-Stack Web Development Bootcamp. We'll be walking them through the very basics of HTML/CSS, Git Version Control, and Terminal/Console commands.
 
-### Slide Shows
+### [Slide Shows](Presentations)
 
-* [1.1 - Zen of Coding](01-Day/Slide-Shows)
-* [1.2 - Git'n Pro with HTML/CSS](02-Day/Slide-Shows)
-* [1.3 - Heroes of CSS](03-Day/Slide-Shows)
+* [1.1 - Zen of Coding]
+* [1.2 - Git'n Pro with HTML/CSS]
+* [1.3 - Heroes of CSS]
 
 ### Homework Activities
 
-* [Build Your Portfolio Page (Recommended Homework)](../../../01-Class-Content/01-html-git-css/02-Homework/Instructions/recommended-homework-assignment.md)
-* [Build A Wireframe Layout (Easier Homework)](../../../01-Class-Content/01-html-git-css/02-Homework/Instructions/easier-homework-assignment.md)
+* [Build Your Portfolio Page (Recommended Homework)](../homework/01-html-git-css/recommended-homework-assignment.md)
+* [Build A Wireframe Layout (Easier Homework)](../homework/01-html-git-css/easier-homework-assignment.md)
 
 ### Key Activities
 
-* [MyFirstHTML](../../../01-Class-Content/01-html-git-css/01-Activities/03-MyFirstHTML)
-* [HTML/CSS Layout](../../../01-Class-Content/01-html-git-css/01-Activities/06-HTML_CSS_Layout)
-* [Float Layout](../../../01-Class-Content/01-html-git-css/01-Activities/09-FloatLayout-Activity)
-* [Position Example](../../../01-Class-Content/01-html-git-css/01-Activities/10-CSS_PositionedLayout)
+* [MyFirstHTML](Activities/03-MyFirstHTML)
+* [HTML/CSS Layout](Activities/06-HTML_CSS_Layout)
+* [Float Layout](Activities/09-FloatLayout-Activity)
+* [Position Example](Activities/10-CSS_PositionedLayout)
 
 ### Supplemental Resources
 
-* [Basic Git Push Guide (Highly Recommended)](02-Day/Supplemental/GitHub-Help)
+* [Basic Git Push Guide (Highly Recommended)](Supplemental/GitHub-Help)
 
 ### Helpful Links
 
