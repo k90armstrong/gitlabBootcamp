@@ -1,0 +1,28 @@
+.large-font {
+    font-size: 80px;
+}
+.font-family1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.font-family2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.font-family3 {
+    font-family: 'Permanent Marker', cursive;
+
+}
+.font-weight1 {
+    font-weight: normal;
+}
+.line-height {
+    line-height: 1.5;
+}
+.letter-spacing {
+    letter-spacing: 10px;
+}
+.line {
+    background-color: blue;
+}
+i.big {
+    font-size: 100px;
+}
