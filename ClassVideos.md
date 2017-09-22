@@ -12,6 +12,7 @@
 
 # Week 2: Github Pages Deployments and Bootstrap
 ## Day 1
+#### Mon, Sep 18 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f1e6443-ad1f-4e88-b41b-71a632b37b21)
 #### Tue, Sep 19 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f1d9a67-7a09-4da4-b087-6b82e551d6b6)
 
 ## Day 2
