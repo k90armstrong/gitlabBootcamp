@@ -21,7 +21,7 @@
 ## Day 3
 #### Sat, Sep 23 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92441234-3471-4317-80ef-5311af95e237)
 
-[//]: # (# Week 3: Javascript)
+[//]: # (# Week 3: Intro to JavaScript)
 [//]: # (## Day 1)
 [//]: # (## Day 2)
 [//]: # (## Day 3)
