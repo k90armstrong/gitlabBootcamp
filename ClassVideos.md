@@ -18,4 +18,10 @@
 ## Day 2
 #### Thu, Sep 21 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b100463-ad83-46e8-9dbb-a47e6dbc35b5)
 
+## Day 3
+#### Sat, Sep 23 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92441234-3471-4317-80ef-5311af95e237)
+
+[//]: # (# Week 3: Javascript)
+[//]: # (## Day 1)
+[//]: # (## Day 2)
 [//]: # (## Day 3)
