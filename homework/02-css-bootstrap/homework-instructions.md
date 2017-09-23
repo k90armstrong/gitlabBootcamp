@@ -69,7 +69,7 @@ In this assignment, you'll create two different portfolios. The first will be an
 
 4. Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
-### Submitting Your Work on [BootcampSpot.com](http://bootcampspot-v2.com/)
+### Submitting Your Work on [BootcampSpot-v2.com](http://bootcampspot-v2.com/)
 
 1. Submit the GitHub links to your portfolio repositories on GitHub.
 
