@@ -19,6 +19,7 @@ Sat, Sep 16 2017: T-Th *missing link!*
 
 
 
+
 # Week 2: Github Pages Deployments and Bootstrap
 ## Day 1
 Mon, Sep 18 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f1e6443-ad1f-4e88-b41b-71a632b37b21)
@@ -32,6 +33,8 @@ Thu, Sep 21 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages
 
 ## Day 3
 Sat, Sep 23 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92441234-3471-4317-80ef-5311af95e237)
+
+
 
 
 [//]: # (# Week 3: Intro to JavaScript)
