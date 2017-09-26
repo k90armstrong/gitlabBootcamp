@@ -70,6 +70,13 @@ In this assignment, you will build a web design skeleton using HTML/CSS. Your co
 
 Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed.
 
+
+### Submitting Your Work on [BootcampSpot.com](http://bootcampspot.com/)
+
+1. Submit the GitHub links to your portfolio repositories on GitHub.
+
+2. Submit the link to your (GitHub Pages) deployed site in the same input field.
+
 - - -
 
 ### One More Thing

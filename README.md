@@ -36,7 +36,7 @@ You must give a full effort on every group and individual project.
 
 #### Class Videos
 
-All videos can be found using this [insert link here]
+All videos can be found here: [ClassVideos.md](ClassVideos.md)
 
 -----------------------------------------
 
@@ -44,7 +44,7 @@ All videos can be found using this [insert link here]
 ## Important Links And Notes
 
 
-[Slack Room insert link here]
+[Slack Room](https://uofu0917.slack.com)
 
 -----------------------------------------
 
