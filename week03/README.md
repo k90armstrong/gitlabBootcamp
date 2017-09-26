@@ -4,26 +4,26 @@
 
 In this week we will be introducing students to their first taste of JavaScript. They will then use their newfound understanding of variables, arrays, loops, and conditionals to create a simple Hangman or Psychic Guessing Game.
 
-### Slide Shows
+### [Slide Shows](Presentations)
 
-* [3.1 - Joys of JavaScript](01-Day/Slide-Shows)
-* [3.2 - Jumping for JS](02-Day/Slide-Shows)
-* [3.3 - JS Juggernauts](03-Day/Slide-Shows)
+* [3.1 - Joys of JavaScript]
+* [3.2 - Jumping for JS]
+* [3.3 - JS Juggernauts]
 
 ### Homework Activities
 
-* [Homework Instructions](../../../01-Class-Content/03-javascript/02-Homework/Instructions/homework-instructions.md)
-* [Hangman Game Demo](../../../01-Class-Content/03-javascript/02-Homework/Instructions/hangman-game-demo.mov)
-* [Psychic Game Demo](../../../01-Class-Content/03-javascript/02-Homework/Instructions/psychic-game-demo.mov)
+* [Homework Instructions](../homework/03-javascript/homework-instructions.md)
+* [Hangman Game Demo](../homework/03-javascript/hangman-game-demo.mov)
+* [Psychic Game Demo](../homework/03-javascript/psychic-game-demo.mov)
 
 ### Key Activities
 
-* [3.1 - CodeDissection](../../../01-Class-Content/03-javascript/01-Activities/01-CodeDissection)
-* [3.1 - Conditional](../../../01-Class-Content/03-javascript/01-Activities/09-ConditionalActivity)
-* [3.2 - Zoo Loop](../../../01-Class-Content/03-javascript/01-Activities/18-ZooLoop)
-* [3.2 - Rock Paper Scissors](../../../01-Class-Content/03-javascript/01-Activities/23-RPS-Coded)
-* [3.3 - MyFirst Functions](../../../01-Class-Content/03-javascript/01-Activities/27-MyFirstFunctions)
-* [3.3 - Car Game](../../../01-Class-Content/03-javascript/01-Activities/32-CarGame)
+* [3.1 - CodeDissection](Activities/01-CodeDissection)
+* [3.1 - Conditional](Activities/09-ConditionalActivity)
+* [3.2 - Zoo Loop](Activities/18-ZooLoop)
+* [3.2 - Rock Paper Scissors](Activities/23-RPS-Coded)
+* [3.3 - MyFirst Functions](Activities/27-MyFirstFunctions)
+* [3.3 - Car Game](Activities/32-CarGame)
 
 ### Helpful Links
 

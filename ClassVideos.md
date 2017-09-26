@@ -52,3 +52,17 @@ Mon, Sep 25 2017: M-W *missing link!*
 
 [//]: # (## Day 3)
 [//]: # (Sat, Sep 30 2017: Sa *missing link!*)
+
+
+
+[//]: # (# Week 4: Intro to JavaScript)
+[//]: # (## Day 1)
+[//]: # (Mon, Oct xx 2017: M-W *missing link!*)
+[//]: # (Tue, Oct xx 2017: T-Th *missing link!*)
+
+[//]: # (## Day 2)
+[//]: # (Wed, Oct xx 2017: M-W *missing link!*)
+[//]: # (Thu, Oct xx 2017: T-Th *missing link!*)
+
+[//]: # (## Day 3)
+[//]: # (Sat, Oct xx 2017: Sa *missing link!*)
