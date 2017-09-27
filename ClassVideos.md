@@ -43,7 +43,7 @@ Sat, Sep 23 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/V
 ## Day 1
 Mon, Sep 25 2017: M-W *missing link!*
 
-[//]: # (Tue, Sep 26 2017: T-Th *missing link!*)
+Tue, Sep 26 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53bc0c64-82ae-4fb2-bf98-d62ce2e1edf5)
 
 [//]: # (## Day 2)
 [//]: # (Wed, Sep 27 2017: M-W *missing link!*)
