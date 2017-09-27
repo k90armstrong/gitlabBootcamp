@@ -5,7 +5,7 @@
 
 # Week 1: Intro to Web Development, HTML/CSS, and Git)
 ## Day 1
-Mon, Sep 11 2017: M-W *missing link!*
+Mon, Sep 11 2017: M-W *unavailable*
 
 Tue, Sep 12 2017: T-Th 
 [Video 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e9a30c5d-ee49-4eb9-a18c-2785d1bc3591) /
@@ -41,7 +41,7 @@ Sat, Sep 23 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/V
 
 # Week 3: Intro to JavaScript
 ## Day 1
-Mon, Sep 25 2017: M-W *missing link!*
+Mon, Sep 25 2017: M-W *unavailable*
 
 Tue, Sep 26 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53bc0c64-82ae-4fb2-bf98-d62ce2e1edf5)
 
