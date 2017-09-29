@@ -42,13 +42,14 @@ Sat, Sep 23 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/V
 # Week 3: Intro to JavaScript
 ## Day 1
 Mon, Sep 25 2017: M-W *unavailable*
-
+[//]: # (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8b938f6-09f6-4245-b864-b65f7371fa6b)
 Tue, Sep 26 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53bc0c64-82ae-4fb2-bf98-d62ce2e1edf5)
 
-[//]: # (## Day 2)
-[//]: # (Wed, Sep 27 2017: M-W *missing link!*)
+## Day 2
+Wed, Sep 27 2017: M-W *unavailable*
+[//]: # (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a7cf224-c62a-4eb7-92d9-f2a2f4b5c6c3)
 
-[//]: # (Thu, Sep 28 2017: T-Th *missing link!*)
+Thu, Sep 28 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfb6e4f5-8fdb-450d-80bb-8362d64c90d8)
 
 [//]: # (## Day 3)
 [//]: # (Sat, Sep 30 2017: Sa *missing link!*)
