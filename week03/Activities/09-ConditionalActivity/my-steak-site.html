@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        var food = "steak";
+        var likesStake = confirm('Do you like ' + food + '???');
+        var bornYear = prompt('What year where you born?');
+        var age = new Date().getFullYear() - bornYear;
+        console.log(age);
+        if ((likesStake) & (age > 21)) {
+            alert('You should press ok, then buy some steak on this site!')
+            window.open('https://www.amazon.com/Beef-Steaks/b?ie=UTF8&node=2256159011');
+        } else {
+            alert('You should go here, and sign this petition');
+            window.open('https://www.change.org/p/shut-down-renovate-steak-n-shake-in-bradenton-florida');
+
+        }
+    </script>
+
+</body>
+
+</html>

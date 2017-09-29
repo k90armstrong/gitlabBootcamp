@@ -14,15 +14,30 @@
   </div>
 
   <script type="text/javascript">
-
     // Creates an array that lists out all of the options (Rock, Paper, or Scissors).
     var computerChoices = ["r", "p", "s"];
+    var winsArray = ['rs', 'pr', 'sp'];
+    var ties = 0;
+    var wins = 0;
+    var loses = 0;
+
+    function userWon(combined, winsArray) {
+      var userWonThisRound = false;
+      for (var i = 0; i < winsArray.length; i++) {
+        if (combined === winsArray[i]) {
+          // User win
+          userWonThisRound = true;
+        }
+      }
+      return userWonThisRound
+    }
 
     // This function is run whenever the user presses a key.
-    document.onkeyup = function(event) {
+    document.onkeyup = function (event) {
 
       // Determines which key was pressed.
       var userGuess = event.key;
+      // check if it was r, s, p
 
       // Randomly chooses a choice from the options array. This is the Computer's guess.
       var computerGuess = computerChoices[Math.floor(Math.random() * computerChoices.length)];
@@ -33,6 +48,21 @@
       // Alerts the Computer's guess.
       alert("Computer guess: " + computerGuess);
 
+      var combined = userGuess + computerGuess;
+
+      if (userGuess === computerGuess) {
+        ties += 1;
+      } else {
+        if (userWon(combined, winsArray)) {
+          wins += 1;
+        } else {
+          loses += 1;
+        }
+      }
+
+      console.log('wins ' + wins);
+      console.log('loses ' + loses);
+      console.log('ties ' + ties);
     };
   </script>
 
