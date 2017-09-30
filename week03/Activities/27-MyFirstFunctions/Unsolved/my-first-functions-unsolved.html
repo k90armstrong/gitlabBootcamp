@@ -1,81 +1,99 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
-    <meta charset="UTF-8">
-    <title>My First Function</title>
-  </head>
-  <body>
 
-    <h1>Open the console to see the magic!</h1>
+<head>
+  <meta charset="UTF-8">
+  <title>My First Function</title>
+</head>
 
-    <script>
+<body>
 
-      // FUNCTIONS
-      // ================================================================================
+  <h1>Open the console to see the magic!</h1>
 
-      // Create a Function called "adder" that take three arguments (x, y, z).
-      // The function should add the arguments together, and log the result to the console.
+  <script>
+    // FUNCTIONS
+    // ================================================================================
 
+    // Create a Function called "adder" that take three arguments (x, y, z).
+    // The function should add the arguments together, and log the result to the console.
+    function adder(x, y, z) {
+      var sum = x + y + z;
+      console.log(sum);
+    }
 
-      // Create a Function called "multiplier" that takes three arguments (x, y, z).
-      // The function should multiply the arguments, and log the result to the console.
+    // Create a Function called "multiplier" that takes three arguments (x, y, z).
+    // The function should multiply the arguments, and log the result to the console.
+    function multiplier(x, y, z) {
+      console.log(x * y * z);
+    }
 
+    // Create a Function called "isString" that takes three arguments (x, y, z).
+    // "isString" determines if all three arguments are strings and logs an appropriate response to the console.
+    function isString(x, y, z) {
+      if (x.match(/[A-Z][a-z]/)) {
+        return console.log(true)
+      }
+      return console.log(false)
+    }
 
-      // Create a Function called "isString" that takes three arguments (x, y, z).
-      // "isString" determines if all three arguments are strings and logs an appropriate response to the console.
+    // Create a Function called "vowelChecker" that takes in a single argument (x).
+    // "vowlChecker" logs whether or not the input is a vowel.
+    function vowlChecker(x) {
+      var vowls = ['a', 'e', 'i', 'o', 'u']
+      for (var i = 0; i < vowls.length; i++) {
 
-
-      // Create a Function called "vowelChecker" that takes in a single argument (x).
-      // "vowlChecker" logs whether or not the input is a vowel.
-
-
-      // BONUS
-      // Creates a version of "adder" that returns its result. Function is called "adderReturn".
-
-
-      // Creates a version of "multiplier" that returns its result. Function is called "multiplierReturn".
-
-
-      // FUNCTION EXECUTION
-      // ================================================================================
-
-      // Add in the lines of code below necessary to call the functions we created above.
-
-
-      // Call the adder function here.
-
-
-      console.log("-------------------");
-
-
-      // Call the multiplier function here.
+      }
+    }
+    // BONUS
+    // Creates a version of "adder" that returns its result. Function is called "adderReturn".
 
 
-      console.log("-------------------");
+    // Creates a version of "multiplier" that returns its result. Function is called "multiplierReturn".
 
 
-      // Call the isString function here.
+    // FUNCTION EXECUTION
+    // ================================================================================
+
+    // Add in the lines of code below necessary to call the functions we created above.
 
 
-      console.log("-------------------");
+    // Call the adder function here.
+    var first = 1;
+    var second = 2;
+    var third = 3;
+    adder(first, second, third);
+
+    console.log("-------------------");
 
 
-      // Call the vowelChecker function here.
+    // Call the multiplier function here.
 
 
-      console.log("-------------------");
+    console.log("-------------------");
 
 
-      // BONUS
-      // Call the adderReturn function here and set it equal to a variable. Then log that variable to the console.
+    // Call the isString function here.
+    isString('s', 2, 3);
+
+    console.log("-------------------");
 
 
-      console.log("-------------------");
+    // Call the vowelChecker function here.
 
 
-      // Call the multiplierReturn function here and set it equal to a variable. Then log that variable to the console.
+    console.log("-------------------");
 
-    </script>
 
-  </body>
+    // BONUS
+    // Call the adderReturn function here and set it equal to a variable. Then log that variable to the console.
+
+
+    console.log("-------------------");
+
+
+    // Call the multiplierReturn function here and set it equal to a variable. Then log that variable to the console.
+  </script>
+
+</body>
+
 </html>

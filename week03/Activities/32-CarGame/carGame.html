@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My First Object</title>
+</head>
+
+<body>
+    <h1>Car Adventures!!!!</h1>
+    <h3>Type "h" to honk, "d" to drive to work, "w" to drive around the world, or "t" to get a tune up</h3>
+    <h4>See console for car stats</h4>
+
+    <script>
+        document.onkeyup = function (event) {
+            var keyPressed = event.key;
+            if (keyPressed === 'h') {
+                car.honk();
+            } else if (keyPressed === 'd') {
+                car.driveToWork();
+            } else if (keyPressed === 'w') {
+                car.driveAroundWorld();
+            } else if (keyPressed === 't') {
+                car.getTuneUp();
+            }
+            car.printStats();
+        };
+
+        var car = {
+            make: "Honda",
+            model: "Fit",
+            color: "Blue Raspberry",
+            mileage: 3000,
+            isWorking: true,
+            lastOilChange: 3000,
+
+            driveToWork: function () {
+
+                alert("Old Mileage: " + this.mileage);
+
+                this.updateMileage(8);
+
+                alert("New mileage: " + this.mileage);
+            },
+            updateMileage: function (miles) {
+                this.mileage += miles;
+                if (this.mileage - this.lastOilChange > 5000) {
+                    alert('GET AN OIL CHANGE');
+                }
+
+            },
+
+            driveAroundWorld: function () {
+
+                alert("Old Mileage: " + this.mileage);
+
+                this.updateMileage(24000);
+
+                alert("New Mileage: " + this.mileage);
+
+                this.isWorking = false;
+            },
+
+            getTuneUp: function () {
+                alert("Car is ready to go!");
+                this.isWorking = true;
+                this.lastOilChange = this.mileage;
+            },
+
+            honk: function () {
+                alert("Honk! Honk!");
+            },
+            printStats: function () {
+                console.log('Make: ' + this.make);
+                console.log('Model: ' + this.model);
+                console.log('Color: ' + this.color);
+                console.log('Mileage: ' + this.mileage);
+                console.log('IsWorking: ' + this.isWorking);
+                console.log('======================');
+            }
+        };
+    </script>
+</body>
+
+</html>
