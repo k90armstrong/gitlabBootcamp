@@ -51,8 +51,8 @@ Wed, Sep 27 2017: M-W *unavailable*
 
 Thu, Sep 28 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfb6e4f5-8fdb-450d-80bb-8362d64c90d8)
 
-[//]: # (## Day 3)
-[//]: # (Sat, Sep 30 2017: Sa *missing link!*)
+## Day 3
+Sat, Sep 30 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ff6c86e-c973-4bf6-bf6a-7b0e81a60419)
 
 
 
