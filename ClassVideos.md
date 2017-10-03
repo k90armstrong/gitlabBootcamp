@@ -56,14 +56,28 @@ Sat, Sep 30 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/V
 
 
 
-[//]: # (# Week 4: Intro to JavaScript)
-[//]: # (## Day 1)
-[//]: # (Mon, Oct xx 2017: M-W *missing link!*)
-[//]: # (Tue, Oct xx 2017: T-Th *missing link!*)
+# Week 4: Intro to jQuery
+## Day 1
+Mon, Oct 02 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a9c20a2-d8c7-49d3-9aff-105f5284bb19)
+[//]: # (Tue, Oct 03 2017: T-Th *missing link!*)
 
 [//]: # (## Day 2)
-[//]: # (Wed, Oct xx 2017: M-W *missing link!*)
-[//]: # (Thu, Oct xx 2017: T-Th *missing link!*)
+[//]: # (Wed, Oct 04 2017: M-W *missing link!*)
+[//]: # (Thu, Oct 05 2017: T-Th *missing link!*)
 
 [//]: # (## Day 3)
-[//]: # (Sat, Oct xx 2017: Sa *missing link!*)
+[//]: # (Sat, Oct 07 2017: Sa *missing link!*)
+
+
+
+[//]: # (# Week 5: What is this?)
+[//]: # (## Day 1)
+[//]: # (Mon, Oct 09 2017: M-W *missing link!*)
+[//]: # (Tue, Oct 10 2017: T-Th *missing link!*)
+
+[//]: # (## Day 2)
+[//]: # (Wed, Oct 11 2017: M-W *missing link!*)
+[//]: # (Thu, Oct 12 2017: T-Th *missing link!*)
+
+[//]: # (## Day 3)
+[//]: # (Sat, Oct 14 2017: Sa *missing link!*)
