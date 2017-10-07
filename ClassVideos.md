@@ -59,14 +59,14 @@ Sat, Sep 30 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/V
 # Week 4: Intro to jQuery
 ## Day 1
 Mon, Oct 02 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a9c20a2-d8c7-49d3-9aff-105f5284bb19)
-[//]: # (Tue, Oct 03 2017: T-Th *missing link!*)
+Tue, Oct 03 2017: T-Th *missing link!*
 
-[//]: # (## Day 2)
-[//]: # (Wed, Oct 04 2017: M-W *missing link!*)
-[//]: # (Thu, Oct 05 2017: T-Th *missing link!*)
+## Day 2
+Wed, Oct 04 2017: M-W *missing link!*
+Thu, Oct 05 2017: T-Th *missing link!*
 
-[//]: # (## Day 3)
-[//]: # (Sat, Oct 07 2017: Sa *missing link!*)
+## Day 3
+Sat, Oct 07 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fbb04bc-4c30-4391-abd4-0e9bab362f96)
 
 
 
