@@ -89,7 +89,7 @@ Sat, Oct 14 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/V
 
 # Week 6: Introduction to APIs and AJAX
 ## Day 1
-Mon, Oct 16 2017: [M-W]()
+Mon, Oct 16 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38a6a8a3-f61e-4ee2-8627-f7a79a8f2db4)
 Tue, Oct 17 2017: T-Th *missing link!*
 
 [//]: # (## Day 2)
@@ -102,12 +102,12 @@ Tue, Oct 17 2017: T-Th *missing link!*
 
 [//]: # (# Week 7: Data Persistence with Local and Server Storage)
 [//]: # (## Day 1)
-[//]: # (Mon, Oct 16 2017: M-W *missing link!*)
-[//]: # (Tue, Oct 17 2017: T-Th *missing link!*)
+[//]: # (Mon, Oct 23 2017: M-W *missing link!*)
+[//]: # (Tue, Oct 24 2017: T-Th *missing link!*)
 
 [//]: # (## Day 2)
-[//]: # (Wed, Oct 18 2017: M-W *missing link!*)
-[//]: # (Thu, Oct 19 2017: T-Th *missing link!*)
+[//]: # (Wed, Oct 25 2017: M-W *missing link!*)
+[//]: # (Thu, Oct 26 2017: T-Th *missing link!*)
 
 [//]: # (## Day 3)
-[//]: # (Sat, Oct 21 2017: Sa *missing link!*)
+[//]: # (Sat, Oct 28 2017: Sa *missing link!*)
