@@ -4,42 +4,40 @@
 
 <html lang="en-us">
 
-  <head>
+<head>
 
-    <meta charset="UTF-8">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <title>Document</title>
 
-    <style>
+  <style>
+    #result,
+    #start {
+      width: 100%;
+      overflow: auto;
+      font-size: 30px;
+      height: 50px;
+    }
+  </style>
 
-      #result,
-      #start{
-        width:100%;
-        overflow: auto;
-        font-size: 30px;
-        height: 50px;
-      }
+</head>
 
-    </style>
+<body>
 
-  </head>
+  <p>Start:</p>
 
-  <body>
+  <div id="start"></div>
 
-      <p>Start:</p>
+  <br>
 
-      <div id="start"></div>
+  <button id='goButton'>GO!</button>
 
-      <br>
+  <p>Result:</p>
 
-      <button>GO!</button>
+  <div id="result"></div>
 
-      <p>Result:</p>
+  <!-- Script -->
+  <script type="text/javascript" src="sortArray.js"></script>
 
-      <div id="result"></div>
-
-      <!-- Script -->
-      <script type="text/javascript" src="sortArray.js"></script>
-
-  </body>
+</body>
 
 </html>

@@ -1,4 +1,3 @@
-
 // Bubble Sort Interview Questions:
 
 
@@ -10,17 +9,9 @@
 
 // Use the array provided below.
 
-// Display the unsorted array in the `#start` div of `index.html`.
-
-// When the user clicks the `button` in index.html,
-// the sorted result should be displayed in the `#result` div.
-
-// DO NOT USE JQUERY TO SELECT ELEMENTS. ONLY USE VANILLA JS.
-
-
 var numbers = [
 
-  1, 326, 251, 24, 284, 364, 287, 74, 89,
+  90909099, 1, 326, 251, 24, 284, 364, 287, 74, 89,
   63, 455, 130, 408, 378, 333, 49, 69, 335,
   195, 145, 122, 454, 30, 277, 208, 293, 311,
   88, 32, 5, 304, 239, 448, 61, 98, 382, 401,
@@ -69,3 +60,37 @@ var numbers = [
   181, 485, 495, 81, 169, 294, 79, 400, 92, 104, 249
 
 ];
+
+function bubbleSort(numArray) {
+  var sorted = true;
+  for (var i = 0; i < numArray.length - 1; i++) {
+    var num1 = numArray[i];
+    var num2 = numArray[i + 1];
+    if (num1 > num2) {
+      // switch num1 and num2
+      numArray[i] = num2;
+      numArray[i + 1] = num1;
+      sorted = false;
+    }
+  }
+  if (!sorted) {
+    return bubbleSort(numArray);
+  } else {
+    return numArray
+  }
+}
+
+
+
+
+// Display the unsorted array in the `#start` div of `index.html`.
+document.getElementById('start').innerHTML = numbers;
+
+// When the user clicks the `button` in index.html,
+// the sorted result should be displayed in the `#result` div.
+document.getElementById('goButton').addEventListener('click', function () {
+  var newArray = bubbleSort(numbers);
+  document.getElementById('result').innerHTML = newArray;
+});
+
+// DO NOT USE JQUERY TO SELECT ELEMENTS. ONLY USE VANILLA JS.

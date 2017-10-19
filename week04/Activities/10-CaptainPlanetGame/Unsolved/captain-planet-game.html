@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Captain Planet: The Game</title>
 
   <!-- Bootstrap File -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+    crossorigin="anonymous">
 
   <!-- JQuery -->
   <script src="https://code.jquery.com/jquery.js"></script>
 
 </head>
+
 <body>
 
   <!-- Overall Bootstrap Grid -->
@@ -59,6 +62,19 @@
           </div>
         </div>
 
+        <!-- new super powers -->
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">New Powers!</h3>
+          </div>
+          <div class="panel-body">
+            <div class="text-center">
+              <button class="btn btn-info btn-default laugh-btn"> Laugh</button>
+              <button class="btn btn-info btn-default clone-btn"> Clone</button>
+            </div>
+          </div>
+        </div>
+
         <!-- Controls (Superpower Move Controls) -->
         <div class="panel panel-default">
           <div class="panel-heading">
@@ -91,100 +107,139 @@
   </div>
 
   <script>
-
     // JavaScript function that wraps everything
-    $(document).ready(function() {
+    $(document).ready(function () {
 
       // Gets Link for Theme Song
       var audioElement = document.createElement("audio");
+      var laughElemnt = document.createElement("audio");
       audioElement.setAttribute("src", "Assets/captainplanet24.mp3");
-
+      laughElemnt.setAttribute("src", "Assets/hyena-laugh_daniel-simion.mp3");
       // Theme Button
-      $(".theme-button").on("click", function() {
+      $(".theme-button").on("click", function () {
         audioElement.play();
       });
 
-      $(".pause-button").on("click", function() {
+      $(".pause-button").on("click", function () {
         audioElement.pause();
       });
 
       // Size Buttons
-      $(".normal-button").on("click", function() {
-        $(".captain-planet").animate({ height: "300px" });
+      $(".normal-button").on("click", function () {
+        $(".captain-planet").animate({
+          height: "300px"
+        });
       });
 
-      $(".grow-button").on("click", function() {
-        $(".captain-planet").animate({ height: "500px" });
+      $(".grow-button").on("click", function () {
+        $(".captain-planet").animate({
+          height: "500px"
+        });
       });
 
-      $(".shrink-button").on("click", function() {
-        $(".captain-planet").animate({ height: "100px" });
+      $(".laugh-btn").on("click", function () {
+        laughElemnt.play();
+      });
+
+      $("clone-btn").on('click', function () {
+        $('.captain-planet').animate({
+          visibiity: 'Hidden'
+        });
+      });
+
+      $(".shrink-button").on("click", function () {
+        $(".captain-planet").animate({
+          height: "100px"
+        });
       });
 
       // Visibility Buttons
-      $(".vis-button").on("click", function() {
-        $(".captain-planet").animate({ opacity: "1" });
+      $(".vis-button").on("click", function () {
+        $(".captain-planet").animate({
+          opacity: "1"
+        });
       });
 
-      $(".invis-button").on("click", function() {
-        $(".captain-planet").animate({ opacity: "0.05" });
+      $(".invis-button").on("click", function () {
+        $(".captain-planet").animate({
+          opacity: "0.05"
+        });
       });
 
       // Move Buttons
-      $(".up-button").on("click", function() {
-        $(".captain-planet").animate({ top: "-=200px" }, "normal");
+      $(".up-button").on("click", function () {
+        $(".captain-planet").animate({
+          top: "-=200px"
+        }, "normal");
       });
 
-      $(".down-button").on("click", function() {
-        $(".captain-planet").animate({ top: "+=200px" }, "normal");
+      $(".down-button").on("click", function () {
+        $(".captain-planet").animate({
+          top: "+=200px"
+        }, "normal");
       });
 
-      $(".left-button").on("click", function() {
-        $(".captain-planet").animate({ left: "-=200px" }, "normal");
+      $(".left-button").on("click", function () {
+        $(".captain-planet").animate({
+          left: "-=200px"
+        }, "normal");
       });
 
-      $(".right-button").on("click", function() {
-        $(".captain-planet").animate({ left: "+=200px" }, "normal");
+      $(".right-button").on("click", function () {
+        $(".captain-planet").animate({
+          left: "+=200px"
+        }, "normal");
       });
 
-      $(".back-button").on("click", function() {
-        $(".captain-planet").animate({ top: "50px", left: "80px" }, "fast");
+      $(".back-button").on("click", function () {
+        $(".captain-planet").animate({
+          top: "50px",
+          left: "80px"
+        }, "fast");
       });
 
       // Move Buttons (Keyboard Down)
-      $(document).keyup(function(e) {
+      $(document).keyup(function (e) {
         switch (e.which) {
           case 40:
-            $(".captain-planet").animate({ top: "+=200px" }, "normal");
+            $(".captain-planet").animate({
+              top: "+=200px"
+            }, "normal");
         }
       });
 
       // Move Buttons (Keyboard Right)
-      $(document).keyup(function(e) {
+      $(document).keyup(function (e) {
         switch (e.which) {
           case 39:
-            $(".captain-planet").animate({ left: "+=200px" }, "normal");
+            $(".captain-planet").animate({
+              left: "+=200px"
+            }, "normal");
         }
       });
 
       // Move Buttons (Keyboard Up)
-      $(document).keyup(function(e) {
+      $(document).keyup(function (e) {
         switch (e.which) {
           case 38:
-            $(".captain-planet").animate({ top: "-=200px" }, "normal");
+            $(".captain-planet").animate({
+              top: "-=200px"
+            }, "normal");
         }
       });
 
       // Move Buttons (Keyboard Left)
-      $(document).keyup(function(e) {
+      $(document).keyup(function (e) {
         switch (e.which) {
           case 37:
-            $(".captain-planet").animate({ left: "-=200px" }, "normal");
+            $(".captain-planet").animate({
+              left: "-=200px"
+            }, "normal");
         }
       });
     });
-
   </script>
 
 </body>
+
 </html>

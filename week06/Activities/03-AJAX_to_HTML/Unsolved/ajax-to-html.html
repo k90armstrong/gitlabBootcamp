@@ -4,13 +4,15 @@
 <head>
   <meta charset="utf-8">
   <title>Favorite Movies</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+    crossorigin="anonymous">
 </head>
 
 <body>
   <div class="container">
     <h2>Basic Table</h2>
     <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>
+    <input id="movieSearch">
     <table class="table">
       <thead>
         <tr>
@@ -48,7 +50,7 @@
     $.ajax({
       url: queryURL,
       method: "GET"
-    }).done(function(response) {
+    }).done(function (response) {
 
       // Getting the first row of the table
       var firstRowTds = $("table")
@@ -68,9 +70,49 @@
 
     // Step 2: copy the above and try and figure out what to change to fill in the
     // second row.
+    $.ajax({
+      url: "https://www.omdbapi.com/?t=batman&y=&plot=short&apikey=40e9cece",
+      method: "GET"
+    }).done(function (response) {
+
+      // Getting the first row of the table
+      var firstRowTds = $("table")
+        .children()
+        .eq(1)
+        .children("tr")
+        .eq(1)
+        .children("td");
+
+      // Setting the inner text of each td in the first row
+      firstRowTds.eq(0).text(response.Title);
+
+      firstRowTds.eq(1).text(response.Year);
+
+      firstRowTds.eq(2).text(response.Actors);
+    });
 
 
     // Step 3: using the same logic, fill in the third row
+    $.ajax({
+      url: "https://www.omdbapi.com/?t=dragon+tales&y=&plot=short&apikey=40e9cece",
+      method: "GET"
+    }).done(function (response) {
+
+      // Getting the first row of the table
+      var firstRowTds = $("table")
+        .children()
+        .eq(1)
+        .children("tr")
+        .eq(2)
+        .children("td");
+
+      // Setting the inner text of each td in the first row
+      firstRowTds.eq(0).text(response.Title);
+
+      firstRowTds.eq(1).text(response.Year);
+
+      firstRowTds.eq(2).text(response.Actors);
+    });
   </script>
 </body>
 
