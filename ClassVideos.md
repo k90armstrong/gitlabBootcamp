@@ -94,10 +94,10 @@ Tue, Oct 17 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages
 
 ## Day 2
 Wed, Oct 18 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36f89843-3442-44fc-9283-8e29e7b5778e)
-[//]: # (Thu, Oct 19 2017: T-Th *missing link!*)
+Thu, Oct 19 2017: T-Th *missing link!*
 
-[//]: # (## Day 3)
-[//]: # (Sat, Oct 21 2017: Sa *missing link!*)
+## Day 3
+Sat, Oct 21 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2a193d1-1a09-43a7-88c0-ad90c395b21a)
 
 
 [//]: # (# Week 7: Data Persistence with Local and Server Storage)
