@@ -13,33 +13,33 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script type="text/javascript">
     //
-    $("#cat-button").on("click", function() {
+    $("#cat-button").on("click", function () {
 
-      //
-      var queryURL = "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=cats";
+      // create a query that will be used to get a gif
+      var queryURL = "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=dogs";
 
-      //
+      // the asyncronous call to the api
       $.ajax({
-        url: queryURL,
-        method: "GET"
-      })
+          url: queryURL,
+          method: "GET"
+        })
 
-      //
-      .done(function(response) {
+        // the promise when the ajax is done getting the gif
+        .done(function (response) {
 
-        //
-        var imageUrl = response.data.image_original_url;
+          // get the url for the gif
+          var imageUrl = response.data.image_original_url;
 
-        //
-        var catImage = $("<img>");
+          // creaing a jquery element/img
+          var catImage = $("<img>");
 
-        //
-        catImage.attr("src", imageUrl);
-        catImage.attr("alt", "cat image");
+          // adding teh src to the image and alt text
+          catImage.attr("src", imageUrl);
+          catImage.attr("alt", "cat image");
 
-        //
-        $("#images").prepend(catImage);
-      });
+          // adds the image to the images div they will be added to the beggining of the div
+          $("#images").prepend(catImage);
+        });
     });
   </script>
 </body>
