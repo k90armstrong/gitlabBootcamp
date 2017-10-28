@@ -62,30 +62,30 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 | Week  | Content |
 | :---: | :-----------------------:|
 
-| 01 | [HTML, CSS, and GIT](week01)
-| 02 | [Heroku and Bootstrap](week02)
-| 03 | [Intro to JavaScript](week03)
-| 04 | [Intro to jQuery](week04)
-| 05 | [JS Timers, Review, and Trivia](week05)
-| 06 | [Intro to APIs and AJAX](week06)
-| 07 | [Intro to Local Storage and Firebase](week07)
-| 08 | [API Project Week 1](week08)
-| 09 | [API Project Week 2 + Interview/Debug](week09)
-| 10 | [Intro to09ode.JS](week10)
-| 11 | [JS Constructors and Callbacks](week11)
-| 12 | [Intro to MySQL](week12)
-| 13 | [Node/Express Web Servers](week13)
-| 14 | [Handlebars Templating](week14)
-| 15 | [Sequelize](week15)
-| 16 | [Testing & Node/Express Project Week One](week16)
-| 17 | [Node/Express Project Week Two](week17)
-| 18 | [MongoDB](week18)
-| 19 | [ReactJS](week19)
-| 20 | [React, MERN](week20)
-| 21 | [Regionalized Content](week21)
-| 22 | [Computer Science Fundamentals](week22)
-| 23 | [Portfolios and Projects](week23)
-| 24 | [Final Projects](week24)
+| 01 | [HTML, CSS, and GIT](week01) |
+| 02 | [Heroku and Bootstrap](week02) |
+| 03 | [Intro to JavaScript](week03) |
+| 04 | [Intro to jQuery](week04) |
+| 05 | [JS Timers, Review, and Trivia](week05) |
+| 06 | [Intro to APIs and AJAX](week06) |
+| 07 | [Intro to Local Storage and Firebase](week07) |
+| 08 | [API Project Week 1](week08) |
+| 09 | [API Project Week 2 + Interview/Debug](week09) |
+| 10 | [Intro to09ode.JS](week10) |
+| 11 | [JS Constructors and Callbacks](week11) |
+| 12 | [Intro to MySQL](week12) |
+| 13 | [Node/Express Web Servers](week13) |
+| 14 | [Handlebars Templating](week14) |
+| 15 | [Sequelize](week15) |
+| 16 | [Testing & Node/Express Project Week One](week16) |
+| 17 | [Node/Express Project Week Two](week17) |
+| 18 | [MongoDB](week18) |
+| 19 | [ReactJS](week19) |
+| 20 | [React, MERN](week20) |
+| 21 | [Regionalized Content](week21) |
+| 22 | [Computer Science Fundamentals](week22) |
+| 23 | [Portfolios and Projects](week23) |
+| 24 | [Final Projects](week24) |
 
 -----------------------------------------
 ## Career Curriculum By Week
