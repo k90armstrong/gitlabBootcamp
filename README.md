@@ -60,8 +60,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 
 | Week  | Content |
-| :---: | :-----------------------|
-
+| :---: | :------------------------------ |
 | 01 | [HTML, CSS, and GIT](week01) |
 | 02 | [Heroku and Bootstrap](week02) |
 | 03 | [Intro to JavaScript](week03) |
