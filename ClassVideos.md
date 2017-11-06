@@ -115,14 +115,27 @@ Thu, Oct 26 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages
 Sat, Oct 28 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff45ad45-c784-48e0-85d0-834b72a7b73a)
 
 
-[//]: # (# Week 8:  Project #1 - Week 1)
-[//]: # (## Day 1)
-[//]: # (Mon, Oct 30 2017: M-W *missing link!*)
-[//]: # (Tue, Oct 31 2017: T-Th *missing link!*)
+# Week 8:  Project #1 - Week 1
+## Day 1
+Mon, Oct 30 2017: M-W *no broadcast*
+Tue, Oct 31 2017: T-Th *no broadcast*
+
+## Day 2
+Wed, Nov 1 2017: M-W *no broadcast*
+Thu, Nov 2 2017: T-Th *no broadcast*
+
+## Day 3
+Sat, Nov 4 2017: Sa *no broadcast*
+
+
+# Week 9:  Project #1 - Week 2
+## Day 1
+Mon, Oct 6 2017: M-W *missing link!*
+Tue, Oct 7 2017: T-Th *missing link!*
 
 [//]: # (## Day 2)
-[//]: # (Wed, Nov 1 2017: M-W *missing link!*)
-[//]: # (Thu, Nov 2 2017: T-Th *missing link!*)
+[//]: # (Wed, Nov 8 2017: M-W *missing link!*)
+[//]: # (Thu, Nov 9 2017: T-Th *missing link!*)
 
 [//]: # (## Day 3)
-[//]: # (Sat, Nov 4 2017: Sa *missing link!*)
+[//]: # (Sat, Nov 11 2017: Sa *missing link!*)
