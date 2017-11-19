@@ -130,30 +130,32 @@ Sat, Nov 4 2017: Sa *no broadcast*
 
 # Week 9:  Project #1 - Week 2
 ## Day 1
-Mon, Nov 6 2017: M-W *missing link!*
-Tue, Nov 7 2017: T-Th *missing link!*
+Mon, Nov 6 2017: M-W *no broadcast*
+Tue, Nov 7 2017: T-Th *no broadcast*
 
 ## Day 2
-Wed, Nov 8 2017: M-W *missing link!*
-Thu, Nov 9 2017: T-Th *missing link!*
+Wed, Nov 8 2017: M-W *no broadcast*
+Thu, Nov 9 2017: T-Th *no broadcast*
 
 ## Day 3
-Sat, Nov 11 2017: Sa *missing link!*
+Sat, Nov 11 2017: Sa *no broadcast*
 
 
 # Week 10:  Introduction to Node and NPM
 ## Day 1
 Mon, Nov 13 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65e7faa9-b7c1-46e4-b23f-145f5d1151e5)
-<!-- Tue, Nov 14 2017: T-Th *missing link!*
+Tue, Nov 14 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c301ca3-7e04-49c7-89e6-6bd4884e3ff9)
 
 ## Day 2
 Wed, Nov 15 2017: M-W *missing link!*
-Thu, Nov 16 2017: T-Th *missing link!*
+Thu, Nov 16 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08028d00-7bd9-4248-84a4-8ca0a32eaf89)
 
 ## Day 3
-Sat, Nov 18 2017: Sa *missing link!*
+Sat, Nov 18 2017: Sa 
+[1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0abbcadc-e1d6-4840-851d-d12fa11c68c2)
+[2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=edfe471b-0846-4a2a-a26e-59a473c61d1d)
 
-
+<!-- 
 # Week 11:  
 ## Day 1
 Mon, Oct 6 2017: M-W *missing link!*
