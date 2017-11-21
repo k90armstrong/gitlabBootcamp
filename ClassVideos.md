@@ -155,6 +155,24 @@ Sat, Nov 18 2017: Sa
 [1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0abbcadc-e1d6-4840-851d-d12fa11c68c2)
 [2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=edfe471b-0846-4a2a-a26e-59a473c61d1d)
 
+# Week 11:  
+## Day 1
+Mon, Nov 20 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c236762-5aa8-46a9-8308-7920e3ac327a)
+Tue, Nov 21 2017: T-Th *missing link!*
+
+## Day 2
+Wed, Nov 22 2017: M-W *no class*
+Thu, Nov 23 2017: T-Th *happy thanksgiving!*
+```
+       .---. /)
+     .'     `\/)
+    /  _   .'`/|
+ ,=(  __\ (__/_/==,
+`==================`
+```
+## Day 3
+Sat, Nov 25 2017: Sa *no class*
+
 <!-- 
 # Week 11:  
 ## Day 1
