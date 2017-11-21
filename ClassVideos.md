@@ -155,6 +155,7 @@ Tue, Nov 14 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages
 
 ## Day 2
 Wed, Nov 15 2017: M-W *missing link!*
+
 Thu, Nov 16 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08028d00-7bd9-4248-84a4-8ca0a32eaf89)
 
 ## Day 3
