@@ -105,10 +105,12 @@ Sat, Oct 21 2017: Sa [1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages
 # Week 7: Data Persistence with Local and Server Storage)
 ## Day 1
 Mon, Oct 23 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89e9a674-a445-4f01-be46-8dc39a39c36b)
+
 Tue, Oct 24 2017: T-Th *missing link!*
 
 ## Day 2
 Wed, Oct 25 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ef37cf6-de96-48aa-8c98-e84a49a27a05)
+
 Thu, Oct 26 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bdbb3540-7c75-4183-af39-4b05664c4968)
 
 ## Day 3
@@ -118,10 +120,12 @@ Sat, Oct 28 2017: [Sa](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/V
 # Week 8:  Project #1 - Week 1
 ## Day 1
 Mon, Oct 30 2017: M-W *no broadcast*
+
 Tue, Oct 31 2017: T-Th *no broadcast*
 
 ## Day 2
 Wed, Nov 1 2017: M-W *no broadcast*
+
 Thu, Nov 2 2017: T-Th *no broadcast*
 
 ## Day 3
@@ -131,10 +135,12 @@ Sat, Nov 4 2017: Sa *no broadcast*
 # Week 9:  Project #1 - Week 2
 ## Day 1
 Mon, Nov 6 2017: M-W *no broadcast*
+
 Tue, Nov 7 2017: T-Th *no broadcast*
 
 ## Day 2
 Wed, Nov 8 2017: M-W *no broadcast*
+
 Thu, Nov 9 2017: T-Th *no broadcast*
 
 ## Day 3
@@ -144,6 +150,7 @@ Sat, Nov 11 2017: Sa *no broadcast*
 # Week 10:  Introduction to Node and NPM
 ## Day 1
 Mon, Nov 13 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65e7faa9-b7c1-46e4-b23f-145f5d1151e5)
+
 Tue, Nov 14 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c301ca3-7e04-49c7-89e6-6bd4884e3ff9)
 
 ## Day 2
@@ -153,15 +160,18 @@ Thu, Nov 16 2017: [T-Th](https://codingbootcamp.hosted.panopto.com/Panopto/Pages
 ## Day 3
 Sat, Nov 18 2017: Sa 
 [1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0abbcadc-e1d6-4840-851d-d12fa11c68c2)
+
 [2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=edfe471b-0846-4a2a-a26e-59a473c61d1d)
 
-# Week 11:  
+# Week 11: Intro to Constructors and Callbacks
 ## Day 1
 Mon, Nov 20 2017: [M-W](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c236762-5aa8-46a9-8308-7920e3ac327a)
+
 Tue, Nov 21 2017: T-Th *missing link!*
 
 ## Day 2
 Wed, Nov 22 2017: M-W *no class*
+
 Thu, Nov 23 2017: T-Th *happy thanksgiving!*
 ```
        .---. /)
@@ -174,14 +184,16 @@ Thu, Nov 23 2017: T-Th *happy thanksgiving!*
 Sat, Nov 25 2017: Sa *no class*
 
 <!-- 
-# Week 11:  
+# Week 12:  
 ## Day 1
-Mon, Oct 6 2017: M-W *missing link!*
-Tue, Oct 7 2017: T-Th *missing link!*
+Mon, Nov 27 2017: M-W *missing link!*
+
+Tue, Nov 28 2017: T-Th *missing link!*
 
 ## Day 2
-Wed, Nov 8 2017: M-W *missing link!*
-Thu, Nov 9 2017: T-Th *missing link!*
+Wed, Nov 29 2017: M-W *missing link!*
+
+Thu, Nov 30 2017: T-Th *missing link!*
 
 ## Day 3
-Sat, Nov 11 2017: Sa *missing link!* -->
+Sat, Dec 1 2017: Sa *missing link!* -->
