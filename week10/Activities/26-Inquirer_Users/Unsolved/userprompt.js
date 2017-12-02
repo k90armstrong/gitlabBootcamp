@@ -14,3 +14,10 @@
 // Remember to be creative!
 
 // ========================================================================
+var question = {type: 'input', name: 'name', message: 'What is your name?'}
+
+var inquirer = require('inquirer');
+inquirer.prompt([question]).then(answers => {
+    // Use user feedback for... whatever!!
+    console.log(answer);
+});

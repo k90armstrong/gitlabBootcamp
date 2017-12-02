@@ -8,7 +8,8 @@
   <title>Sign-Up Today!</title>
 
   <!-- Bootstrap -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+    crossorigin="anonymous">
 
 </head>
 
@@ -84,17 +85,45 @@
     // ========================================= START CODING BELOW!!
 
     // Capture Button Click
-    $("#add-user").on("click", function(event) {
+    $("#add-user").on("click", function (event) {
       event.preventDefault();
 
       // Capture User Inputs and store them into variables
+      var name = $('#name-input').val().trim();
+      var email = $('#email-input').val().trim();
+      var age = $('#age-input').val().trim();
+      var comment = $('#comment-input').val().trim();
+      var member = {
+        name: name,
+        email: email,
+        age: age,
+        comment: comment
+      }
 
+      var memberString = JSON.stringify(member);
 
       // Console log each of the user inputs to confirm we are receiving them correctly
-
-
+      console.log(name, email, age, comment);
       // Output all of the new information into the relevant HTML sections
+      $('#name-display').text(name);
+      $('#email-display').text(email);
+      $('#age-display').text(age);
+      $('#comment-display').text(comment);
+
+      localStorage.setItem('member', memberString);
+      var testArray = [1, 2, 3, 4, 5, 6];
+      localStorage.setItem('testArray', JSON.strigify(testArray));
+
+
     });
+    var storedMemberString = localStorage.getItem('member');
+    var storedMember = JSON.parse(storedMemberString);
+    if (storedMember) {
+      $('#name-display').text(storedMember.name);
+      $('#email-display').text(storedMember.email);
+      $('#age-display').text(storedMember.age);
+      $('#comment-display').text(storedMember.comment);
+    }
   </script>
 
 </body>

@@ -1,35 +1,37 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  <head>
+<head>
 
-    <meta charset="UTF-8">
-    <title>Click Button with Firebase!</title>
+  <meta charset="UTF-8">
+  <title>Click Button with Firebase!</title>
 
-    <!-- -->
-    <script src="https://www.gstatic.com/firebasejs/live/3.0/firebase.js"></script>
+  <!-- -->
+  <script src="https://www.gstatic.com/firebasejs/live/3.0/firebase.js"></script>
 
-  </head>
+</head>
 
-  <body>
+<body>
 
-    <!-- -->
-    <h1>Ouch! You've clicked me <span id="click-value"></span> times!</h1>
+  <!-- -->
+  <h1>Ouch! You've clicked me
+    <span id="click-value"></span> times!</h1>
 
-    <!-- -->
-    <button id="click-button">Click Me!!!!</button>
+  <!-- -->
+  <button id="click-button">Click Me!!!!</button>
 
-    <!-- -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!-- -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
   <!-- ================================================================================== -->
-    <script>
-
+  <script>
     var config = {
-      apiKey: "AIzaSyAJS4YQWU5DmESeYueG1qH1NGkjv3DncEY",
-      authDomain: "fir-click-counter-7cdb9.firebaseapp.com",
-      databaseURL: "https://fir-click-counter-7cdb9.firebaseio.com",
-      storageBucket: "fir-click-counter-7cdb9.appspot.com"
+      apiKey: "AIzaSyB1WWpmMiDAxCIGBLPfJqD3Y3XkyOozC7o",
+      authDomain: "bootcamp-starter.firebaseapp.com",
+      databaseURL: "https://bootcamp-starter.firebaseio.com",
+      projectId: "bootcamp-starter",
+      storageBucket: "bootcamp-starter.appspot.com",
+      messagingSenderId: "1081305209534"
     };
 
     firebase.initializeApp(config);
@@ -43,7 +45,7 @@
     // FUNCTIONS + EVENTS
     // --------------------------------------------------------------------------------
 
-    $("#click-button").on("click", function() {
+    $("#click-button").on("click", function () {
       clickCounter++;
       database.ref().set({
         clickCount: clickCounter
@@ -53,16 +55,15 @@
     // MAIN PROCESS + INITIAL CODE
     // --------------------------------------------------------------------------------
 
-    database.ref().on("value", function(snapshot) {
+    database.ref().on("value", function (snapshot) {
       console.log(snapshot.val());
       $("#click-value").text(snapshot.val().clickCount);
       clickCounter = snapshot.val().clickCount;
-    }, function(errorObject) {
+    }, function (errorObject) {
       console.log("The read failed: " + errorObject.code);
     });
+  </script>
 
-    </script>
-
-  </body>
+</body>
 
 </html>

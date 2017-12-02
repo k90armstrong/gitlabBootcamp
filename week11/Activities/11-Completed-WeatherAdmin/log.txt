@@ -1,0 +1,3 @@
+User: Fred, Location: Toronto, Date: 1512009368765
+User: Bob, Location: Toronto, Date: 1512011101932
+User: kyle, Location: toronto, Date: 1512014063242

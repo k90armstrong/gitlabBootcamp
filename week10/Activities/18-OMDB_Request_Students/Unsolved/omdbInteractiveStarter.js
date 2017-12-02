@@ -9,10 +9,11 @@
 
 // Include the request npm package (Don't forget to run "npm install request" in this folder first!)
 // ...
+var request = require('request');
 
 
 // Grab or assemble the movie name and store it in a variable called "movieName"
-var movieName = "";
+var movieName = process.argv[2];
 // ...
 
 
@@ -21,14 +22,20 @@ var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey
 
 
 // This line is just to help us debug against the actual URL.
-console.log(queryUrl);
+// console.log(queryUrl);
 
 
 // Then create a request to the queryUrl
 // ...
+request(queryUrl, function (error, response, body) {
+  if (!error) {
+    var b = JSON.parse(body);
+    console.log(b);
+    console.log(b.Year);
+  }
+});
+// If the request is successful
+// ...
 
-  // If the request is successful
-  // ...
-
-  // Then log the Release Year for the movie
-  // ...
+// Then log the Release Year for the movie
+// ...
